@@ -1,4 +1,4 @@
 # dog_breed
-Clone Repository 
-Run app.py
-api endpoint -http://0.0.0.0:5004/imagedetection
+1.Clone Repository,    
+2.Run app.py,
+3.api endpoint -http://0.0.0.0:5004/imagedetection
